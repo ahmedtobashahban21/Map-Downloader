@@ -25,3 +25,5 @@ The application's interface includes:
 5. **Start Download**: Click the button to start the download process.
 
 
+![Application Screenshot]()
+
